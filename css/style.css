@@ -1,0 +1,119 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 85%;
+    margin: auto;
+}
+.icon-world ul{
+    list-style: none;
+
+}
+.icon-world ul li{
+    display: inline-block;
+}
+.icon-world ul li a{
+    font-size: 50px;
+    color: red;
+    background-color: black;
+    padding: 20px 40px;
+    display: block;
+    border-radius: 20px;
+}
+.icon-world ul li a:hover{
+    color: white;
+    background-color: blue;
+    transition: 1.7s;
+}
+
+
+.icon-world1 ul{
+    list-style: none;
+
+}
+.icon-world1 ul li{
+    display: inline-block;
+}
+.icon-world1 ul li a{
+    font-size: 50px;
+    color:skyblue;
+    background-color: rgb(99, 31, 126);
+    padding: 20px 40px;
+    display: block;
+   
+    
+}
+.icon-world1 ul li a:hover{
+    color: white;
+    background-color:pink;
+    transition: 1.7s;
+}
+
+
+.icon-world2 ul{
+    list-style: none;
+
+}
+.icon-world2 ul li{
+    display: inline-block;
+}
+.icon-world2 ul li a{
+    font-size: 60px;
+    color:rgb(17, 81, 83);
+    background-color: rgba(80, 114, 17, 0.473);
+    padding: 20px 40px;
+    display: block;
+    
+}
+.icon-world2 ul li a:hover{
+    color: rgba(161, 152, 20, 0.699);
+    background-color:rgb(240, 110, 132);
+    transition: 1.5s;
+}
+
+
+
+.icon-world3 ul{
+    list-style: none;
+
+}
+.icon-world3 ul li{
+    display: inline-block;
+}
+.icon-world3 ul li a{
+    font-size: 70px;
+    color:rgb(158, 42, 91);
+    background-color: rgba(107, 10, 163, 0.651);
+    padding: 20px 40px;
+    display: block;
+    
+}
+.icon-world3 ul li a:hover{
+    color: rgba(74, 22, 122, 0.699);
+    background-color:rgb(117, 23, 121);
+    transition: 1.5s;
+}
+
+
+
+.icon-world4 ul{
+    list-style: none;
+
+}
+.icon-world4 ul li{
+    display: inline-block;
+}
+.icon-world4 ul li a{
+    font-size: 80px;
+    color:rgb(48, 8, 24);
+    background-color: rgba(112, 67, 138, 0.651);
+    padding: 20px 40px;
+    display: block;
+    
+}
+.icon-world4 ul li a:hover{
+    color: rgba(90, 122, 38, 0.699);
+    background-color:rgb(67, 98, 110);
+    transition: 1.5s;
+}
